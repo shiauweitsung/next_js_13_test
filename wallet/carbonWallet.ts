@@ -7,7 +7,7 @@ import {
 
 declare global {
 	interface Window {
-		carbon: EIP1193Provider
+		carbon: EIP1193Provider;
 	}
 }
 
